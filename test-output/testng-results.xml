@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="162" started-at="2019-03-13T09:00:57Z" finished-at="2019-03-13T09:00:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="162" started-at="2019-03-13T09:00:57Z" finished-at="2019-03-13T09:00:57Z">
+      <class name="Project1.NewProject.API">
+        <test-method status="PASS" signature="sub()[pri:0, instance:Project1.NewProject.API@4439f31e]" name="sub" duration-ms="14" started-at="2019-03-13T14:30:57Z" finished-at="2019-03-13T14:30:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- Project1.NewProject.API -->
+      <class name="Project1.NewProject.SQL">
+        <test-method status="PASS" signature="add()[pri:0, instance:Project1.NewProject.SQL@5d5eef3d]" name="add" duration-ms="2" started-at="2019-03-13T14:30:57Z" finished-at="2019-03-13T14:30:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+      </class> <!-- Project1.NewProject.SQL -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
